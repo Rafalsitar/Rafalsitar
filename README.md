@@ -1,0 +1,4 @@
+- I am a freelance Backend developer
+- I started programming a year ago
+- I'm interested in making a real game someday
+- I know C#, but want to learn Ruby too 
